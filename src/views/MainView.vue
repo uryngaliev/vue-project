@@ -5,7 +5,7 @@
   <section>
     <div class="container mx-auto px-16">
       <div class="py-8">
-        <h1 class="text-3xl font-bold">About</h1>
+        <h1 class="text-3xl font-bold">О нас</h1>
         <p>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusamus
           quibusdam aliquam, quae expedita labore tempora sunt nihil numquam
@@ -126,7 +126,7 @@
       </div>
     </div>
   </section>
-  <Footer></Footer>
+  <Footer class="bg-pink-300"></Footer>
 </template>
 
 <script>

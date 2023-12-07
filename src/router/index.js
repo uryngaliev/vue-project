@@ -20,6 +20,24 @@ const routes = [
   },
 
   {
+    path: '/qr-code',
+    name: 'qr-code',
+    component: () => import("@/views/QRcode.vue")
+  },
+
+  {
+    path: "/announcement",
+    name: "announcement",
+    component: () => import("@/views/Announcement.vue"),
+  },
+
+  {
+    path: '/chat',
+    name: "chat",
+    component: () => import("@/views/Chat.vue")
+  },
+
+  {
     path: "/video/game-room",
     name: "game-room",
     component: () => import("@/views/GameRoom.vue"),
@@ -40,7 +58,7 @@ const routes = [
   {
     path: "/video/play-ground",
     name: "play-ground",
-    component: () => import("@/views/Playground.vue")
+    component: () => import("@/views/Playground.vue"),
   },
 
   {

@@ -47,63 +47,6 @@
     </div>
   </header>
   </div>
-  <div>
-    <p>
-      LLLLLLlLLLorem, ipsum dolor sit amet consectetur adipisicing elit. Saepe accusamus
-      ad qui iste, necessitatibus eos eligendi distinctio fugit natus fuga! Quae
-      sapiente aspernatur dolorum aperiam fugit aliquam tempore cumque iure
-      deleniti, voluptate perferendis. Labore aspernatur laborum quam ipsam
-      laboriosam, placeat nostrum tempora nihil recusandae obcaecati ratione
-      repellat numquam alias omnis! Voluptas enim tempora dolor, debitis omnis
-      sapiente incidunt eaque illo? Ad voluptas perferendis sit fuga quod
-      possimus numquam sunt iste cupiditate, ullam tenetur. Optio vel, ab
-      officia itaque nostrum, veniam dolore qui, beatae quod facere possimus
-      eveniet minus cupiditate velit esse hic rem. Sit mollitia expedita sint
-      quia, explicabo ducimus unde impedit nihil quaerat quis omnis et amet
-      veritatis similique, nostrum vero veniam deserunt ut, in magni fugiat
-      possimus! Placeat odio iste in quia natus nulla unde consequuntur,
-      excepturi dolorum autem praesentium optio quas maxime consequatur,
-      accusamus aliquid exercitationem eveniet numquam magnam? Iure cum,
-      mollitia recusandae ratione nam dolorem officiis nulla accusamus dolorum
-      quas aut voluptatum id minima quia maxime cumque. Cum quis at voluptatem
-      deserunt, beatae aperiam quae rerum doloribus eius impedit veritatis non,
-      voluptatum voluptates ab id incidunt velit? Recusandae, aliquid maxime
-      magni cumque consequatur consequuntur possimus quia dicta sed animi
-      suscipit soluta saepe itaque, incidunt dolorum omnis exercitationem
-      explicabo quis impedit eligendi! Soluta, rerum. Perspiciatis voluptate,
-      possimus esse, distinctio voluptatem ipsam impedit sequi laboriosam
-      expedita doloribus placeat, illo repudiandae? Saepe praesentium, soluta
-      libero nam magnam voluptatem nobis dignissimos numquam, quos magni minima
-      sequi, ex doloremque architecto. Quam veritatis aut dolorem pariatur,
-      tempora aliquam ad minus vitae ab delectus fuga magni sed placeat
-      architecto sint nulla, eveniet maxime sunt autem quidem, quos modi laborum
-      aliquid qui. Repudiandae blanditiis repellat architecto optio, inventore,
-      dolore ipsa nulla quos tempora ut quia consectetur ea alias. Voluptates
-      ratione, omnis excepturi voluptatum neque repellendus possimus fuga
-      reprehenderit sunt ea eaque esse necessitatibus suscipit sit nam
-      consequatur obcaecati optio, itaque distinctio ullam ipsam vero. Saepe
-      quas incidunt nam accusamus necessitatibus quae, impedit distinctio alias
-      nihil esse! Non porro, sequi qui placeat, eos deleniti quam velit fuga
-      repellendus rerum incidunt eaque explicabo alias natus? Doloremque dolores
-      sit, ullam libero fugit vitae odit temporibus fugiat quasi harum, debitis
-      expedita mollitia maiores voluptatem. Possimus commodi deleniti quos nam
-      sequi est dignissimos doloribus id numquam. Fugiat sint, assumenda ad
-      temporibus architecto quidem quaerat consectetur repellat voluptas non
-      voluptatibus, qui inventore iusto deserunt harum ab quae natus quam
-      maiores excepturi ut similique exercitationem? Dolores eaque assumenda
-      quod mollitia dolore blanditiis obcaecati hic, soluta nam quis nisi nihil
-      a autem asperiores incidunt delectus error. Iure odio animi aperiam,
-      delectus eveniet fugiat est possimus deserunt ratione cumque numquam
-      reiciendis doloribus, perspiciatis enim necessitatibus quos nisi expedita
-      asperiores, error iste nulla quibusdam. Fugit nobis cum quae laborum
-      placeat, inventore quis, esse ex, labore eum maiores eveniet velit. Dolor
-      culpa ad adipisci natus laudantium minima doloribus tempora recusandae
-      sequi expedita, non quaerat possimus! Placeat exercitationem architecto,
-      temporibus eveniet consectetur eum cumque excepturi ipsam saepe animi
-      veniam! Aliquam, quisquam? Asperiores, similique hic in modi enim odio
-      voluptatum neque dignissimos voluptatibus corrupti, maiores nihil iusto!
-    </p>
-  </div>
   <Footer></Footer>
 </template>
 

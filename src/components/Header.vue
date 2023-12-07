@@ -7,7 +7,7 @@
             <router-link :to="{ name: 'video' }">Видеонаблюдение</router-link>
           </li>
           <li>
-            <router-link :to="{ name: '' }">QR - для входа</router-link>
+            <router-link :to="{ name: 'qr-code' }">QR - для входа</router-link>
           </li>
           <li>
             <router-link :to="{ name: 'food-menu' }">Меню блюд</router-link>
@@ -36,10 +36,10 @@
         </router-link>
         <ul class="flex items-center gap-12">
           <li class="ml-8">
-            <router-link :to="{ name: '' }">Обьявление</router-link>
+            <router-link :to="{ name: 'announcement' }">Обьявление</router-link>
           </li>
           <li>
-            <a href="#">Чат для родителей</a>
+            <router-link :to="{ name: 'chat' }">Чат для родителей</router-link>
           </li>
           <li>
             <router-link :to="{ name: 'support' }">Помощь</router-link>
