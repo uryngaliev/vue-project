@@ -7,11 +7,6 @@
         <ul class="">
           <li class="text-xl">
             <a href="mailto:z.kinessova@aues.kz">E-mail: z.kinessova@aues.kz</a>
-            <ul class="sub-menu__list">
-              <li>
-                <a href="" class="sub-menu__link"></a>
-              </li>
-            </ul>
           </li>
           <li class="text-xl">
             <a href="tel:+77024084551">Телефон: +7 702 408 45 51</a>
