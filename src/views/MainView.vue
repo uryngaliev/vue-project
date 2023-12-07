@@ -1,6 +1,6 @@
 <template>
   <div class="img__bg img h-screen bg-cover bg-center">
-    <Header></Header>
+    <Header class="text-black bg-pink-300"></Header>
   </div>
   <section>
     <div class="container mx-auto px-16">
@@ -126,17 +126,22 @@
       </div>
     </div>
   </section>
+  <Footer></Footer>
 </template>
 
 <script>
 import Header from "@/components/Header.vue";
+import Footer from "@/components/Footer.vue"
 export default {
-  components: { Header },
+  components: { Header, Footer  }
 };
 </script>
 
 <style>
 .img__bg {
-  background-image: url("../img/main-img.jpg");
+  background-image: url("../img/background-one.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 </style>
